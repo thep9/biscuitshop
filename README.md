@@ -1,3 +1,3 @@
 # biscuitshop
-Project by Norathep Sakphet
+Project by Norathep Sakphet (ฺBiscuits Shop)
 
